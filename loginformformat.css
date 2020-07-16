@@ -1,0 +1,14 @@
+body{
+	background-size: 100% 100%;
+	background-color:rgb(100,200,50);
+	}
+h1{color:red;position:relative;left:400px;top:60px}
+form{position:relative;left:400px;top:100px}
+form legend{color:blue}
+label.labelblock{display:block;position:relative;left:12px;top:0px}
+label.labelblock input{position:absolute;left:170px}
+label span{color:green}
+
+#fname,#lname{width:25em}
+
+#contact{width:60%}
